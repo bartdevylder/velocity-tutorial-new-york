@@ -6,3 +6,4 @@ source/1/.ipynb_checkpoints
 .pydevproject
 extract*
 __pycache__
+*.pyc
